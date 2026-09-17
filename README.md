@@ -84,7 +84,7 @@ streamlit run app.py
 
 ```
 smartstore-ai/
-├── app.py                          # Application Streamlit
+├── appsupertore.py                          # Application Streamlit
 ├── superstore_analysis.ipynb       # Notebook d'analyse complet
 ├── model_rf.pkl                    # Modèle Random Forest entraîné
 ├── scaler.pkl                      # StandardScaler fitté
@@ -93,7 +93,8 @@ smartstore-ai/
 │   ├── superstore_clean.csv
 │   ├── customer_rfm.csv
 │   ├── product_summary.csv
-│   └── monthly_summary.csv
+└── monthly_summary.csv
+│__un powerbi_exports
 └── README.md
 ```
 
